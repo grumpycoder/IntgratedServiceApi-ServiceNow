@@ -1,0 +1,6 @@
+@IntegratedServicesApi.Web_HostAddress = http://localhost:5017
+
+GET {{IntegratedServicesApi.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
